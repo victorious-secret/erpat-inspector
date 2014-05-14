@@ -1,0 +1,28 @@
+[
+  {
+    "id" : 1,
+    "site_id": "LC-2014-001",
+    "location": {
+      "lat": 10.2,
+      "long": -14.15
+    },
+    "address": "Likod ng Kawalan, Bagumbayan, Los Banos, Laguna",
+    "contact": {
+      "name": "Juan dela Cruz",
+      "phone": "8016722"
+    }
+  },
+    {
+      "id" : 2,
+      "site_id": "LC-2014-001",
+      "location": {
+        "lat": 10.2,
+        "long": -14.15
+      },
+      "address": "Likod ng Kawalan, Bagumbayan, Los Banos, Laguna",
+      "contact": {
+        "name": "Juan dela Cruz",
+        "phone": "8016722"
+      }
+    }
+]
