@@ -2,519 +2,519 @@
 <merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="main" >
-        <source path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res" >
+        <source path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res" >
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/color/common_signin_btn_text_dark.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/color/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/color/common_signin_btn_text_light.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/color/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_icon_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable/common_signin_btn_icon_dark.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable/common_signin_btn_icon_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable/common_signin_btn_icon_light.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable/common_signin_btn_icon_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable/common_signin_btn_text_dark.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable/common_signin_btn_text_light.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/ic_plusone_medium_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/ic_plusone_small_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/ic_plusone_small_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/ic_plusone_standard_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-hdpi/ic_plusone_tall_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/ic_plusone_medium_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/ic_plusone_small_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/ic_plusone_small_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/ic_plusone_standard_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-mdpi/ic_plusone_tall_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values/ads_attrs.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values/ads_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="AdsAttrs" >
 
@@ -543,7 +543,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values/colors.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values/colors.xml"
                 qualifiers="" >
                 <color name="common_signin_btn_light_text_pressed" >@android:color/white
                 </color>
@@ -567,7 +567,7 @@
                 </color>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values/maps_attrs.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values/maps_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="MapAttrs" >
                     <attr
@@ -631,7 +631,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values/strings.xml"
                 qualifiers="" >
                 <string name="common_google_play_services_unsupported_text" >Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.
                 </string>
@@ -701,29 +701,25 @@
                     name="common_google_play_services_install_text_phone"
                     msgid="2122112764540849864" >This app won\'t run without Google Play services, which are missing from your phone.
                 </string>
+                <string name="common_google_play_services_invalid_account_text" >The specified account does not exist on this device. Please choose a different account.
+                </string>
                 <string
                     name="common_google_play_services_enable_button"
                     msgid="2523291102206661146" >Enable Google Play services
-                </string>
-                <string name="common_google_play_services_invalid_account_text" >The specified account does not exist on this device. Please choose a different account.
                 </string>
                 <string name="common_google_play_services_network_error_text" >A data connection is required to connect to Google Play services.
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values/version.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values/version.xml"
                 qualifiers="" >
                 <integer name="google_play_services_version" >
 4323000
                 </integer>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-af/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-af/strings.xml"
                 qualifiers="af" >
-                <string
-                    name="auth_client_needs_update_title"
-                    msgid="6488605506794595966" >"\'n Program vereis \'n opdatering vir Google Play-dienste."
-                </string>
                 <string
                     name="common_google_play_services_network_error_title"
                     msgid="3827284619958211114" >"Netwerkfout"
@@ -741,10 +737,6 @@
                     msgid="3983201110833868073" >"\'n Program vereis dat Google Play-dienste geaktiveer word."
                 </string>
                 <string
-                    name="common_google_play_services_unsupported_text"
-                    msgid="3542578567569488671" >"Google Play-dienste, waarop sommige van jou programme staatmaak, werk nie met jou toestel nie. Kontak asseblief die vervaardiger vir bystand."
-                </string>
-                <string
                     name="common_google_play_services_install_text_tablet"
                     msgid="1589957570365247855" >"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou tablet is nie."
                 </string>
@@ -754,6 +746,22 @@
 <ns1:g id="APP_NAME" >
 %1$s
                     </ns1:g>"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Aktiveer Google Play-dienste"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie."
+                </string>
+                <string
+                    name="auth_client_needs_update_title"
+                    msgid="6488605506794595966" >"\'n Program vereis \'n opdatering vir Google Play-dienste."
+                </string>
+                <string
+                    name="common_google_play_services_unsupported_text"
+                    msgid="3542578567569488671" >"Google Play-dienste, waarop sommige van jou programme staatmaak, werk nie met jou toestel nie. Kontak asseblief die vervaardiger vir bystand."
                 </string>
                 <string
                     name="common_google_play_services_install_button"
@@ -768,12 +776,12 @@
                     msgid="2534454398764507874" >"\'n Program het probeer om \'n slegte weergawe van Google Play-dienste te gebruik."
                 </string>
                 <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"Dateer op"
-                </string>
-                <string
                     name="common_google_play_services_enable_text"
                     msgid="7627896071867667758" >"Hierdie program sal nie werk tensy jy Google Play-dienste aktiveer nie."
+                </string>
+                <string
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"Dateer op"
                 </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -788,10 +796,6 @@
                     msgid="4983316348021735578" >"Die gespesifiseerde rekening bestaan nie op hierdie toestel nie. Kies asseblief \'n ander rekening."
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Aktiveer Google Play-dienste"
-                </string>
-                <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Dateer Google Play-dienste op"
                 </string>
@@ -800,20 +804,16 @@
                     msgid="4725396522367789365" >"Dit lyk of die datum op die toestel verkeerd is. Gaan asseblief die datum op die toestel na."
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"\'n Program vereis dat Google Play-dienste geïnstalleer word."
-                </string>
-                <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play-dienste"
                 </string>
                 <string
-                    name="common_google_play_services_invalid_account_title"
-                    msgid="1066672360770936753" >"Ongeldige rekening"
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"\'n Program vereis dat Google Play-dienste geïnstalleer word."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie."
+                    name="common_google_play_services_invalid_account_title"
+                    msgid="1066672360770936753" >"Ongeldige rekening"
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
@@ -829,7 +829,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-am/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-am/strings.xml"
                 qualifiers="am" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -940,7 +940,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ar/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ar/strings.xml"
                 qualifiers="ar" >
                 <string
                     name="common_signin_button_text"
@@ -994,12 +994,12 @@
                     msgid="1589957570365247855" >"‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي."
                 </string>
                 <string
-                    name="common_google_play_services_update_text"
-                    msgid="448354684997260580" >"‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play."
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر."
+                </string>
+                <string
+                    name="common_google_play_services_update_text"
+                    msgid="448354684997260580" >"‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play."
                 </string>
                 <string
                     name="common_google_play_services_network_error_title"
@@ -1051,7 +1051,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-be/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-be/strings.xml"
                 qualifiers="be" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1142,7 +1142,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-bg/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-bg/strings.xml"
                 qualifiers="bg" >
                 <string
                     name="common_google_play_services_network_error_title"
@@ -1253,7 +1253,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ca/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ca/strings.xml"
                 qualifiers="ca" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -1364,7 +1364,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-cs/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-cs/strings.xml"
                 qualifiers="cs" >
                 <string
                     name="common_google_play_services_update_button"
@@ -1475,8 +1475,36 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-da/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-da/strings.xml"
                 qualifiers="da" >
+                <string
+                    name="common_google_play_services_update_text"
+                    msgid="448354684997260580" >"Denne app kan ikke køre, medmindre du opdaterer Google Play-tjenester."
+                </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"Denne app virker ikke, medmindre du aktiverer Google Play-tjenester."
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Aktivér Google Play-tjenester"
+                </string>
+                <string
+                    name="common_google_play_services_network_error_text"
+                    msgid="9038847255613537209" >"Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester."
+                </string>
+                <string
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"Opdater Google Play-tjenester"
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Hent Google Play-tjenester"
+                </string>
+                <string
+                    name="common_google_play_services_unsupported_title"
+                    msgid="6334768798839376943" >"Google Play-tjenester"
+                </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
                     msgid="3635065018897986478" >"Fejl i Google Play-tjenester"
@@ -1490,28 +1518,20 @@
                     msgid="8932944190611227642" >"Opdater"
                 </string>
                 <string
-                    name="common_google_play_services_update_text"
-                    msgid="448354684997260580" >"Denne app kan ikke køre, medmindre du opdaterer Google Play-tjenester."
-                </string>
-                <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"Aktivér Google Play-tjenester"
-                </string>
-                <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"Denne app virker ikke, medmindre du aktiverer Google Play-tjenester."
                 </string>
                 <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"En applikation kræver, at Google Play er installeret."
                 </string>
                 <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"En applikation forsøgte at bruge en defekt version af Google Play."
-                </string>
-                <string
                     name="common_google_play_services_install_text_phone"
                     msgid="8685301130651051380" >"Denne app kan ikke køre uden Google Play-tjenester, som mangler på din telefon."
+                </string>
+                <string
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"En applikation forsøgte at bruge en defekt version af Google Play."
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -1521,28 +1541,24 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_unknown_issue"
-                    msgid="4762332809710093730" >"Ukendt problem med Google Play-tjenester."
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_title"
                     msgid="1066672360770936753" >"Ugyldig konto"
                 </string>
                 <string
-                    name="auth_client_needs_update_title"
-                    msgid="6488605506794595966" >"En applikation kræver en opdatering af Google Play."
-                </string>
-                <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Log ind med Google"
+                    name="common_google_play_services_unknown_issue"
+                    msgid="4762332809710093730" >"Ukendt problem med Google Play-tjenester."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp."
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Aktivér Google Play-tjenester"
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Log ind med Google"
+                </string>
+                <string
+                    name="auth_client_needs_update_title"
+                    msgid="6488605506794595966" >"En applikation kræver en opdatering af Google Play."
                 </string>
                 <string
                     name="common_google_play_services_install_button"
@@ -1553,20 +1569,8 @@
                     msgid="3827284619958211114" >"Netværksfejl"
                 </string>
                 <string
-                    name="common_google_play_services_network_error_text"
-                    msgid="9038847255613537209" >"Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester."
-                </string>
-                <string
                     name="common_google_play_services_unsupported_date_text"
                     msgid="4725396522367789365" >"Datoen på enheden ser ud til at være forkert. Husk at kontrollere datoen på enheden."
-                </string>
-                <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"Opdater Google Play-tjenester"
-                </string>
-                <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Hent Google Play-tjenester"
                 </string>
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -1580,13 +1584,9 @@
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"En applikation kræver, at Google Play er aktiveret."
                 </string>
-                <string
-                    name="common_google_play_services_unsupported_title"
-                    msgid="6334768798839376943" >"Google Play-tjenester"
-                </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-de/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-de/strings.xml"
                 qualifiers="de" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -1697,23 +1697,19 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-el/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-el/strings.xml"
                 qualifiers="el" >
                 <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Ενημέρωση υπηρεσιών Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Λήψη υπηρεσιών Google Play"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Σφάλμα υπηρεσιών Google Play"
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Λήψη υπηρεσιών Google Play"
                 </string>
                 <string
                     name="common_google_play_services_install_button"
@@ -1722,6 +1718,10 @@
                 <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Οι υπηρεσίες Google Play, στις οποίες βασίζονται ορισμένες από τις εφαρμογές σας, δεν υποστηρίζονται στη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για υποστήριξη."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Σφάλμα υπηρεσιών Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -1808,7 +1808,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-en-rGB/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-en-rGB/strings.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -1919,7 +1919,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-en-rIN/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-en-rIN/strings.xml"
                 qualifiers="en-rIN" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2030,7 +2030,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-es/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-es/strings.xml"
                 qualifiers="es" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -2112,24 +2112,24 @@
                     msgid="1066672360770936753" >"Cuenta no válida"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Error de los servicios de Google Play"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Iniciar sesión con Google"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Error de los servicios de Google Play"
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
                     msgid="4181637455539816337" >"Habilitar servicios de Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_network_error_title"
-                    msgid="3827284619958211114" >"Error de red"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."
+                </string>
+                <string
+                    name="common_google_play_services_network_error_title"
+                    msgid="3827284619958211114" >"Error de red"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -2141,7 +2141,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-es-rUS/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-es-rUS/strings.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -2252,7 +2252,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-et-rEE/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-et-rEE/strings.xml"
                 qualifiers="et-rEE" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -2363,7 +2363,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-fa/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-fa/strings.xml"
                 qualifiers="fa" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -2474,7 +2474,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-fi/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-fi/strings.xml"
                 qualifiers="fi" >
                 <string
                     name="common_signin_button_text_long"
@@ -2585,7 +2585,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-fr/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-fr/strings.xml"
                 qualifiers="fr" >
                 <string
                     name="common_google_play_services_network_error_text"
@@ -2616,12 +2616,12 @@
                     msgid="4725396522367789365" >"La date sur l\'appareil semble incorrecte. Veuillez la vérifier."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Erreur liée aux services Google Play"
-                </string>
-                <string
                     name="common_google_play_services_install_title"
                     msgid="26645092511305524" >"Installer les services Google Play"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Erreur liée aux services Google Play"
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -2659,12 +2659,12 @@
                     msgid="6334768798839376943" >"Services Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_network_error_title"
-                    msgid="3827284619958211114" >"Erreur réseau"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Le compte indiqué n\'existe pas sur cet appareil. Veuillez sélectionner un autre compte."
+                </string>
+                <string
+                    name="common_google_play_services_network_error_title"
+                    msgid="3827284619958211114" >"Erreur réseau"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -2696,15 +2696,15 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-fr-rCA/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-fr-rCA/strings.xml"
                 qualifiers="fr-rCA" >
-                <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Erreur liée aux services Google Play"
-                </string>
                 <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Les services Google Play, dont dépendent certaines de vos applications, ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l\'aide."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Erreur liée aux services Google Play"
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
@@ -2747,12 +2747,12 @@
                     msgid="9071884888741449141" >"Connexion"
                 </string>
                 <string
-                    name="common_google_play_services_invalid_account_title"
-                    msgid="1066672360770936753" >"Compte erroné"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Le compte indiqué n\'existe pas sur cet appareil. Veuillez sélectionner un autre compte."
+                </string>
+                <string
+                    name="common_google_play_services_invalid_account_title"
+                    msgid="1066672360770936753" >"Compte erroné"
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -2807,7 +2807,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-hi/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-hi/strings.xml"
                 qualifiers="hi" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -2857,16 +2857,16 @@
                     msgid="448354684997260580" >"जब तक आप Google Play सेवाओं से नई जानकारी नहीं लेते हैं, तब तक यह ऐप्स  नहीं चलेगा."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play सेवाएं त्रुटि"
-                </string>
-                <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"नई जानकारी पाएं"
                 </string>
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"ऐप्स  के लिए Google Play सेवाओं में Google Play से नई जानकारी की आवश्यकता है."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play सेवाएं त्रुटि"
                 </string>
                 <string
                     name="common_google_play_services_install_button"
@@ -2885,12 +2885,12 @@
                     msgid="7999585836145154206" >"ऐप्स  के लिए Google Play सेवाओं के इंस्टॉलेशन की आवश्यकता है."
                 </string>
                 <string
-                    name="common_google_play_services_invalid_account_title"
-                    msgid="1066672360770936753" >"अमान्य खाता"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"निर्दिष्ट खाता इस उपकरण पर मौजूद नहीं है. कृपया कोई भिन्न खाता चुनें."
+                </string>
+                <string
+                    name="common_google_play_services_invalid_account_title"
+                    msgid="1066672360770936753" >"अमान्य खाता"
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
@@ -2918,7 +2918,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-hr/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-hr/strings.xml"
                 qualifiers="hr" >
                 <string
                     name="common_google_play_services_update_button"
@@ -3029,7 +3029,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-hu/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-hu/strings.xml"
                 qualifiers="hu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -3048,12 +3048,12 @@
                     msgid="7999585836145154206" >"Egy alkalmazás kéri a Google Play Szolgáltatások telepítését."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play szolgáltatási hiba"
-                </string>
-                <string
                     name="common_google_play_services_install_button"
                     msgid="8515591849428043265" >"Play Szolgáltatások telepítése"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play szolgáltatási hiba"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -3140,7 +3140,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-hy-rAM/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-hy-rAM/strings.xml"
                 qualifiers="hy-rAM" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3251,20 +3251,8 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-in/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-in/strings.xml"
                 qualifiers="in" >
-                <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Dapatkan layanan Google Play"
-                </string>
-                <string
-                    name="common_google_play_services_unsupported_text"
-                    msgid="3542578567569488671" >"Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan."
-                </string>
-                <string
-                    name="auth_client_needs_update_title"
-                    msgid="6488605506794595966" >"Aplikasi membutuhkan pembaruan untuk Layanan Google Play."
-                </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Layanan Google Play"
@@ -3274,28 +3262,12 @@
                     msgid="529078775174559253" >"Aktifkan layanan Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Dapatkan layanan Google Play"
-                </string>
-                <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda."
-                </string>
-                <string
                     name="common_google_play_services_unknown_issue"
                     msgid="4762332809710093730" >"Masalah tidak diketahui pada layanan Google Play."
                 </string>
                 <string
-                    name="common_signin_button_text"
-                    msgid="9071884888741449141" >"Masuk"
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Aplikasi membutuhkan pemasangan Layanan Google Play."
-                </string>
-                <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Aktifkan layanan Google Play"
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -3305,32 +3277,16 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"Aplikasi membutuhkan Layanan Google Play untuk dapat diaktifkan."
-                </string>
-                <string
                     name="common_google_play_services_install_text_tablet"
                     msgid="1589957570365247855" >"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda."
-                </string>
-                <string
-                    name="common_google_play_services_update_text"
-                    msgid="448354684997260580" >"Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play."
                 </string>
                 <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain."
                 </string>
                 <string
-                    name="common_google_play_services_network_error_title"
-                    msgid="3827284619958211114" >"Kesalahan Jaringan"
-                </string>
-                <string
                     name="common_google_play_services_network_error_text"
                     msgid="9038847255613537209" >"Sambungan data diperlukan untuk tersambung ke layanan Google Play."
-                </string>
-                <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"Perbarui layanan Google Play"
                 </string>
                 <string
                     name="auth_client_using_bad_version_title"
@@ -3349,12 +3305,56 @@
                     msgid="3635065018897986478" >"Kesalahan layanan Google Play"
                 </string>
                 <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Masuk dengan Google"
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Dapatkan layanan Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_unsupported_text"
+                    msgid="3542578567569488671" >"Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan."
+                </string>
+                <string
+                    name="auth_client_needs_update_title"
+                    msgid="6488605506794595966" >"Aplikasi membutuhkan pembaruan untuk Layanan Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda."
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Dapatkan layanan Google Play"
+                </string>
+                <string
+                    name="common_signin_button_text"
+                    msgid="9071884888741449141" >"Masuk"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Aktifkan layanan Google Play"
+                </string>
+                <string
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"Aplikasi membutuhkan Layanan Google Play untuk dapat diaktifkan."
+                </string>
+                <string
+                    name="common_google_play_services_update_text"
+                    msgid="448354684997260580" >"Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_network_error_title"
+                    msgid="3827284619958211114" >"Kesalahan Jaringan"
+                </string>
+                <string
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"Perbarui layanan Google Play"
                 </string>
                 <string
                     name="common_google_play_services_invalid_account_title"
                     msgid="1066672360770936753" >"Akun Tidak Valid"
+                </string>
+                <string
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Masuk dengan Google"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_date_text"
@@ -3362,7 +3362,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-it/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-it/strings.xml"
                 qualifiers="it" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3473,7 +3473,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-iw/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-iw/strings.xml"
                 qualifiers="iw" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -3539,12 +3539,12 @@
                     msgid="8515591849428043265" >"‏קבל את שירותי Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"‏עדכון שירותי Google Play"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"החשבון שצוין לא קיים במכשיר זה. בחר חשבון אחר."
+                </string>
+                <string
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"‏עדכון שירותי Google Play"
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
@@ -3584,7 +3584,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ja/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ja/strings.xml"
                 qualifiers="ja" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -3614,16 +3614,16 @@
                     </ns1:g>によるリクエスト"
                 </string>
                 <string
+                    name="common_google_play_services_invalid_account_text"
+                    msgid="4983316348021735578" >"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"
+                </string>
+                <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"Play開発者サービスの有効化"
                 </string>
                 <string
                     name="common_google_play_services_install_title"
                     msgid="26645092511305524" >"Play開発者サービスの入手"
-                </string>
-                <string
-                    name="common_google_play_services_invalid_account_text"
-                    msgid="4983316348021735578" >"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -3695,7 +3695,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ka-rGE/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ka-rGE/strings.xml"
                 qualifiers="ka-rGE" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -3806,12 +3806,8 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-km-rKH/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-km-rKH/strings.xml"
                 qualifiers="km-rKH" >
-                <string
-                    name="common_google_play_services_unsupported_title"
-                    msgid="6334768798839376943" >"សេវាកម្ម​កម្សាន្ត​ Google"
-                </string>
                 <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"សេវាកម្ម​កម្សាន្ត Google អាស្រ័យ​លើ​កម្មវិធី​របស់​អ្នក មិន​ត្រូវ​បាន​គាំទ្រ​ដោយ​ឧបករណ៍​របស់​អ្នក។ សូម​ទាក់ទង​ក្រុមហ៊ុន​ផលិត​សម្រាប់​ជំនួយ។"
@@ -3819,18 +3815,6 @@
                 <string
                     name="common_google_play_services_install_title"
                     msgid="26645092511305524" >"ទទួល​សេវាកម្ម​កម្សាន្ត Google"
-                </string>
-                <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"​​កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​មិន​មាន។"
-                </string>
-                <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"ចូល​ដោយ​ប្រើ​ Google"
-                </string>
-                <string
-                    name="common_google_play_services_invalid_account_title"
-                    msgid="1066672360770936753" >"គណនី​មិន​ត្រឹមត្រូវ"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_date_text"
@@ -3848,12 +3832,52 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"កម្មវិធី​​​ព្យាយាម​ប្រើ​កំណែ​មិនល្អ​របស់​សេវា​កម្ម​ឃ្លាំ​កម្មវិធី។"
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"បើក​សេវាកម្ម​កម្សាន្ត Google"
+                </string>
+                <string
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"ធ្វើ​បច្ចុប្បន្នភាព"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"កំហុស​សេវា​កម្ម​កម្សាន្ត Google"
+                </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"កម្ម​វិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​បើក​សេវាកម្ម​​កម្សាន្ត​ Google ។"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​ទូរស័ព្ទ​របស់​​អ្នក​មិន​មាន។"
+                </string>
+                <string
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"កម្មវិធី​ទាមទារ​​បើក​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។"
+                </string>
+                <string
+                    name="common_google_play_services_unsupported_title"
+                    msgid="6334768798839376943" >"សេវាកម្ម​កម្សាន្ត​ Google"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"​​កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​មិន​មាន។"
+                </string>
+                <string
+                    name="common_google_play_services_invalid_account_title"
+                    msgid="1066672360770936753" >"គណនី​មិន​ត្រឹមត្រូវ"
+                </string>
+                <string
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"ចូល​ដោយ​ប្រើ​ Google"
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"បើក​សេវាកម្ម​កម្សាន្ត Google"
+                </string>
+                <string
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"កម្មវិធី​​​ព្យាយាម​ប្រើ​កំណែ​មិនល្អ​របស់​សេវា​កម្ម​ឃ្លាំ​កម្មវិធី។"
                 </string>
                 <string
                     name="common_google_play_services_network_error_title"
@@ -3864,60 +3888,36 @@
                     msgid="4762332809710093730" >"មិន​ស្គាល់​បញ្ហា​ជាមួយ​សេវាកម្ម​កម្សាន្ត Google ។"
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"កម្មវិធី​ទាមទារ​ការ​ដំឡើង​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។"
-                </string>
-                <string
                     name="common_google_play_services_network_error_text"
                     msgid="9038847255613537209" >"បាន​ទាមទារ​ការ​តភ្ជាប់​ទិន្នន័យ ដើម្បី​ភ្ជាប់​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។"
+                </string>
+                <string
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"កម្មវិធី​ទាមទារ​ការ​ដំឡើង​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។"
                 </string>
                 <string
                     name="common_google_play_services_install_button"
                     msgid="8515591849428043265" >"ទទួល​សេវាកម្ម​កម្សាន្ត Google"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"បើក​សេវាកម្ម​កម្សាន្ត Google"
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google"
                 </string>
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"កម្មវិធី​ទាមទារ​​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។"
                 </string>
                 <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google"
-                </string>
-                <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"ធ្វើ​បច្ចុប្បន្នភាព"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។"
-                </string>
-                <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"កំហុស​សេវា​កម្ម​កម្សាន្ត Google"
                 </string>
                 <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"ចូល"
                 </string>
-                <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"កម្ម​វិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​បើក​សេវាកម្ម​​កម្សាន្ត​ Google ។"
-                </string>
-                <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"កម្មវិធី​ទាមទារ​​បើក​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។"
-                </string>
-                <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​ទូរស័ព្ទ​របស់​​អ្នក​មិន​មាន។"
-                </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ko/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ko/strings.xml"
                 qualifiers="ko" >
                 <string
                     name="common_google_play_services_unsupported_date_text"
@@ -4028,7 +4028,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-lo-rLA/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-lo-rLA/strings.xml"
                 qualifiers="lo-rLA" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -4107,12 +4107,12 @@
                     msgid="7627896071867667758" >"ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ບໍລິການ Google Play"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"ບໍລິການ Google Play ຜິດພາດ"
-                </string>
-                <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"ອັບເດດບໍລິການ Google Play"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"ບໍລິການ Google Play ຜິດພາດ"
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -4139,7 +4139,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-lt/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-lt/strings.xml"
                 qualifiers="lt" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4222,12 +4222,12 @@
                     msgid="3635065018897986478" >"„Google Play“ paslaugų klaida"
                 </string>
                 <string
-                    name="common_google_play_services_network_error_text"
-                    msgid="9038847255613537209" >"Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio."
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą."
+                </string>
+                <string
+                    name="common_google_play_services_network_error_text"
+                    msgid="9038847255613537209" >"Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio."
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -4250,7 +4250,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-lv/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-lv/strings.xml"
                 qualifiers="lv" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4332,12 +4332,12 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play pakalpojumu kļūda"
-                </string>
-                <string
                     name="common_google_play_services_install_text_tablet"
                     msgid="1589957570365247855" >"Lai šī lietotne darbotos, planšetdatorā ir jāinstalē Google Play pakalpojumi."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play pakalpojumu kļūda"
                 </string>
                 <string
                     name="auth_client_using_bad_version_title"
@@ -4361,7 +4361,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-mn-rMN/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-mn-rMN/strings.xml"
                 qualifiers="mn-rMN" >
                 <string
                     name="common_google_play_services_update_text"
@@ -4428,12 +4428,12 @@
                     msgid="4725396522367789365" >"Төхөөрөмжийн огноо буруу байгаа бололтой. Төхөөрөмжийн огноог шалгана уу."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play үйлчилгээний алдаа"
-                </string>
-                <string
                     name="common_google_play_services_network_error_text"
                     msgid="9038847255613537209" >"Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play үйлчилгээний алдаа"
                 </string>
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4472,7 +4472,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ms-rMY/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ms-rMY/strings.xml"
                 qualifiers="ms-rMY" >
                 <string
                     name="common_signin_button_text_long"
@@ -4530,12 +4530,12 @@
                     msgid="448354684997260580" >"Apl ini tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Ralat perkhidmatan Google Play"
-                </string>
-                <string
                     name="common_google_play_services_network_error_title"
                     msgid="3827284619958211114" >"Ralat Rangkaian"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Ralat perkhidmatan Google Play"
                 </string>
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -4583,7 +4583,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-nb/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-nb/strings.xml"
                 qualifiers="nb" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4694,23 +4694,11 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-nl/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-nl/strings.xml"
                 qualifiers="nl" >
-                <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"Google Play-services moet zijn ingeschakeld voor een applicatie."
-                </string>
                 <string
                     name="auth_client_using_bad_version_title"
                     msgid="2534454398764507874" >"Onjuiste versie van Google Play-services wordt gebruikt."
-                </string>
-                <string
-                    name="common_google_play_services_invalid_account_text"
-                    msgid="4983316348021735578" >"Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account."
-                </string>
-                <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Google Play-services ophalen"
                 </string>
                 <string
                     name="common_google_play_services_enable_text"
@@ -4719,14 +4707,6 @@
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"Google Play-services moet worden geüpdatet voor een applicatie."
-                </string>
-                <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Google Play-services inschak."
-                </string>
-                <string
-                    name="common_google_play_services_network_error_title"
-                    msgid="3827284619958211114" >"Netwerkfout"
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
@@ -4740,28 +4720,12 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"Bijwerken"
-                </string>
-                <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Google Play-services ophalen"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_title"
                     msgid="1066672360770936753" >"Ongeldig account"
                 </string>
                 <string
                     name="common_google_play_services_install_text_phone"
                     msgid="8685301130651051380" >"Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw telefoon."
-                </string>
-                <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"Google Play-services bijwerken"
-                </string>
-                <string
-                    name="common_google_play_services_network_error_text"
-                    msgid="9038847255613537209" >"Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services."
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -4776,24 +4740,16 @@
                     msgid="3635065018897986478" >"Fout met Google Play-services"
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"Google Play-services moet zijn geïnstalleerd voor een applicatie."
-                </string>
-                <string
                     name="common_google_play_services_unsupported_date_text"
                     msgid="4725396522367789365" >"De datum op het apparaat lijkt onjuist. Controleer de datum op het apparaat."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet."
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"Google Play-services moet zijn geïnstalleerd voor een applicatie."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Google Play-services, dat vereist is voor een aantal van uw applicaties, wordt niet ondersteund door uw apparaat. Neem contact op met de fabrikant voor ondersteuning."
-                </string>
-                <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Inloggen met Google"
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -4803,9 +4759,53 @@
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play-services"
                 </string>
+                <string
+                    name="common_google_play_services_invalid_account_text"
+                    msgid="4983316348021735578" >"Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account."
+                </string>
+                <string
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"Google Play-services moet zijn ingeschakeld voor een applicatie."
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Google Play-services ophalen"
+                </string>
+                <string
+                    name="common_google_play_services_network_error_title"
+                    msgid="3827284619958211114" >"Netwerkfout"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Google Play-services inschak."
+                </string>
+                <string
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"Bijwerken"
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Google Play-services ophalen"
+                </string>
+                <string
+                    name="common_google_play_services_network_error_text"
+                    msgid="9038847255613537209" >"Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services."
+                </string>
+                <string
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"Google Play-services bijwerken"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet."
+                </string>
+                <string
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Inloggen met Google"
+                </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-pl/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-pl/strings.xml"
                 qualifiers="pl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -4828,12 +4828,12 @@
                     msgid="8932944190611227642" >"Aktualizuj"
                 </string>
                 <string
-                    name="common_google_play_services_network_error_text"
-                    msgid="9038847255613537209" >"Korzystanie z usług Google Play wymaga połączenia z internetem."
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Podanego konta nie ma na tym urządzeniu. Wybierz inne konto."
+                </string>
+                <string
+                    name="common_google_play_services_network_error_text"
+                    msgid="9038847255613537209" >"Korzystanie z usług Google Play wymaga połączenia z internetem."
                 </string>
                 <string
                     name="common_signin_button_text_long"
@@ -4916,7 +4916,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-pt/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-pt/strings.xml"
                 qualifiers="pt" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -4990,12 +4990,12 @@
                     msgid="8515591849428043265" >"Instalar o Google Play Services"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Ocorreu um erro no Google Play Services"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Fazer login com o Google"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Ocorreu um erro no Google Play Services"
                 </string>
                 <string
                     name="common_google_play_services_invalid_account_text"
@@ -5027,7 +5027,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-pt-rBR/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-pt-rBR/strings.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -5109,12 +5109,12 @@
                     msgid="6334768798839376943" >"Play Services"
                 </string>
                 <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"Atualize o Google Play Services"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"A conta especificada não existe no dispositivo. Escolha outra conta."
+                </string>
+                <string
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"Atualize o Google Play Services"
                 </string>
                 <string
                     name="common_signin_button_text"
@@ -5138,7 +5138,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-pt-rPT/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-pt-rPT/strings.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="common_google_play_services_network_error_text"
@@ -5249,7 +5249,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ro/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ro/strings.xml"
                 qualifiers="ro" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -5343,10 +5343,6 @@
                     msgid="2429381841831957106" >"Conectați-vă cu Google"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Eroare Servicii Google Play"
-                </string>
-                <string
                     name="common_google_play_services_network_error_text"
                     msgid="9038847255613537209" >"Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play."
                 </string>
@@ -5355,12 +5351,16 @@
                     msgid="3827284619958211114" >"Eroare de reţea"
                 </string>
                 <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Eroare Servicii Google Play"
+                </string>
+                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Conectați"
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-ru/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-ru/strings.xml"
                 qualifiers="ru" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -5471,7 +5471,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-sk/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-sk/strings.xml"
                 qualifiers="sk" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -5533,12 +5533,12 @@
                     msgid="2429381841831957106" >"Prihlásiť sa do účtu Google"
                 </string>
                 <string
-                    name="common_google_play_services_invalid_account_title"
-                    msgid="1066672360770936753" >"Neplatný účet"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet."
+                </string>
+                <string
+                    name="common_google_play_services_invalid_account_title"
+                    msgid="1066672360770936753" >"Neplatný účet"
                 </string>
                 <string
                     name="common_google_play_services_enable_text"
@@ -5582,7 +5582,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-sl/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-sl/strings.xml"
                 qualifiers="sl" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -5693,7 +5693,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-sr/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-sr/strings.xml"
                 qualifiers="sr" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -5755,12 +5755,12 @@
                     msgid="3983201110833868073" >"Апликација захтева да Google Play услуге буду омогућене."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Грешка Google Play услуга"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_title"
                     msgid="1066672360770936753" >"Неважећи налог"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Грешка Google Play услуга"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -5804,7 +5804,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-sv/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-sv/strings.xml"
                 qualifiers="sv" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -5915,7 +5915,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-sw/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-sw/strings.xml"
                 qualifiers="sw" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -6026,7 +6026,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-th/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-th/strings.xml"
                 qualifiers="th" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -6137,7 +6137,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-tl/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-tl/strings.xml"
                 qualifiers="tl" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -6248,7 +6248,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-tr/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-tr/strings.xml"
                 qualifiers="tr" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6359,7 +6359,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-uk/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-uk/strings.xml"
                 qualifiers="uk" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6457,12 +6457,12 @@
                     msgid="4725396522367789365" >"Схоже, на пристрої вказано неправильну дату. Перевірте її."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Помилка Сервісів Google Play"
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Щоб програма працювала, потрібно встановити Сервіси Google Play."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Помилка Сервісів Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -6470,7 +6470,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-vi/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-vi/strings.xml"
                 qualifiers="vi" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -6493,12 +6493,12 @@
                     msgid="3983201110833868073" >"Ứng dụng yêu cầu Dịch vụ của Google Play phải được bật."
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Cài đặt dịch vụ của Google Play"
-                </string>
-                <string
                     name="common_google_play_services_invalid_account_text"
                     msgid="4983316348021735578" >"Tài khoản đã chỉ định không tồn tại trên thiết bị này. Vui lòng chọn một tài khoản khác."
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Cài đặt dịch vụ của Google Play"
                 </string>
                 <string
                     name="auth_client_using_bad_version_title"
@@ -6581,7 +6581,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-zh-rCN/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-zh-rCN/strings.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -6611,12 +6611,12 @@
                     msgid="3542578567569488671" >"您的设备不支持部分应用所依赖的 Google Play 服务。请与设备制造商联系，以寻求帮助。"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play 服务出错"
-                </string>
-                <string
                     name="common_google_play_services_network_error_title"
                     msgid="3827284619958211114" >"网络错误"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play 服务出错"
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
@@ -6692,7 +6692,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-zh-rHK/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-zh-rHK/strings.xml"
                 qualifiers="zh-rHK" >
                 <string
                     name="common_google_play_services_install_title"
@@ -6803,7 +6803,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-zh-rTW/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-zh-rTW/strings.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -6914,7 +6914,7 @@
                 </string>
             </file>
             <file
-                path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/res/values-zu/strings.xml"
+                path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/res/values-zu/strings.xml"
                 qualifiers="zu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -6980,16 +6980,16 @@
                     msgid="8685301130651051380" >"Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho efonini yakho."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Iphutha lamasevisi we-Google Play"
-                </string>
-                <string
                     name="common_google_play_services_network_error_text"
                     msgid="9038847255613537209" >"Kudingeka ukuxhumeka kwedatha ukuze kuxhunyekwe kumasevisi we-Google Play."
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
                     msgid="4762332809710093730" >"Indaba engaziwa yamasevisi we-Google Play"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Iphutha lamasevisi we-Google Play"
                 </string>
                 <string
                     name="common_google_play_services_install_title"
@@ -7025,11 +7025,11 @@
                 </string>
             </file>
         </source>
-        <source path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/build/res/rs/debug" />
-        <source path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/build/res/generated/debug" />
+        <source path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/build/res/rs/debug" />
+        <source path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/build/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/joseph/workspace/others/TechCamp/google-play-services_lib/src/debug/res" />
+        <source path="/Users/joseph/workspace/others/erpat-mobile/google-play-services_lib/src/debug/res" />
     </dataSet>
 
 </merger>
