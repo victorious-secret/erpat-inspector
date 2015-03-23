@@ -5,11 +5,12 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 
 /**
  * Created by joseph on 5/10/14.
  */
-public abstract class BaseActivity extends Activity {
+public abstract class BaseActivity extends ActionBarActivity {
     protected LocationManager mLocationManager;
 
     Location currentBestLocation = null;

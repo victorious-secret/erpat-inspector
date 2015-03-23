@@ -25,6 +25,8 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
+            android:screenOrientation="nosensor"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:name="com.techcamp.disaster.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
@@ -42,10 +44,12 @@
             android:value="AIzaSyAQbiuCxHKFfu1zmOoAI7fImk9c5Xgay4o" />
 
         <activity
+            android:screenOrientation="nosensor"
             android:name="com.techcamp.disaster.LoginActivity"
             android:label="@string/title_activity_login"
             android:windowSoftInputMode="adjustResize|stateVisible"></activity>
         <activity
+            android:screenOrientation="nosensor"
             android:name=".DisplayDetailsActivity"
             android:label="@string/title_activity_display_details"></activity>
     </application>

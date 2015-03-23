@@ -102,31 +102,31 @@ public class DataManager {
 
 
     public void querySiteDetail(Context context, long id, final OnSiteDetailListener onSiteDetailListener) {
-        String url = Config.SERVICE_URL + Config.LOCATION_CLEARANCES_DETAIL + "/" + id + ".json";
-        OAuthRequest request = new OAuthRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
-            @Override
-            public void onResponse(JSONObject response) {
-                Site site = DataHelper.getSiteFromJson(response);
-                onSiteDetailListener.onQueryComplete(site);
-            }
-        }, new Response.ErrorListener() {
+//        String url = Config.SERVICE_URL + Config.LOCATION_CLEARANCES_DETAIL + "/" + id + ".json";
+//        OAuthRequest request = new OAuthRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
+//            @Override
+//            public void onResponse(JSONObject response) {
+//                Site site = DataHelper.getSiteFromJson(response);
+//                onSiteDetailListener.onQueryComplete(site);
+//            }
+//        }, new Response.ErrorListener() {
+//
+//            @Override
+//            public void onErrorResponse(VolleyError error) {
+//                Log.e(TAG, "messge = " + error.getMessage());
+//                onSiteDetailListener.onFailure();
+//            }
+//        }, getAuthHeader(context));
+//        request.setShouldCache(false);
+//        request.setCacheEntry(null);
+//        reqQueue.add(request);
 
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                Log.e(TAG, "messge = " + error.getMessage());
-                onSiteDetailListener.onFailure();
-            }
-        }, getAuthHeader(context));
-        request.setShouldCache(false);
-        request.setCacheEntry(null);
-        reqQueue.add(request);
-
-//        try {
-//            JSONObject result = new JSONObject(Utils.getSampleResponse(context, "site_detail_response"));
-//            onSiteDetailListener.onQueryComplete(DataHelper.getSiteFromJson(result));
-//        } catch (JSONException e) {
-//            e.printStackTrace();
-//        }
+        try {
+            JSONObject result = new JSONObject(Utils.getSampleResponse(context, "site_detail_response"));
+            onSiteDetailListener.onQueryComplete(DataHelper.getSiteFromJson(result));
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
 
     }
 
